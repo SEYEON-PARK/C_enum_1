@@ -8,7 +8,7 @@ int main(void)
 {
 	enum number a;
 	a = three;
-	printf("¼ıÀÚ %dÀÔ´Ï´Ù.\n", a+1);
+	printf("ìˆ«ì %dì…ë‹ˆë‹¤.\n", a+1);
 
 	return 0;
 }
